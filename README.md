@@ -1,2 +1,1 @@
-# cpk-basis-data
-mongodb
+sebelumnya mohon maaf bu, saya sudah mencoba mongodb menggunakan 2 metode, yang pertama mongodb cloud dan yang kedua mongodb localhost, yang saya sudah inputkan datanya ada di mongodb cloud tetapi saat generate link to vscode itu tidak bisa, jadi saya hanya sampai bagian data collection dan saya juga sudah berhasil sampai menampilkan querynya menggunakan javascript yang ada di index.js dan file data collectionnya ada di data_wisata_34_daerah.json
