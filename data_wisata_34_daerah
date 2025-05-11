@@ -1,0 +1,1226 @@
+[
+  {
+    "nama_daerah": "Jakarta",
+    "foto": "https://example.com/foto_jakarta.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Jakarta",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Jakarta",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Jakarta",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Jakarta",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Jakarta",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Jakarta",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Surabaya",
+    "foto": "https://example.com/foto_surabaya.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Surabaya",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Surabaya",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Surabaya",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Surabaya",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Surabaya",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Surabaya",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Bandung",
+    "foto": "https://example.com/foto_bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Bandung",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Bandung",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Bandung",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Bandung",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Bandung",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Bandung",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Yogyakarta",
+    "foto": "https://example.com/foto_yogyakarta.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Yogyakarta",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Yogyakarta",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Yogyakarta",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Yogyakarta",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Yogyakarta",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Yogyakarta",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Medan",
+    "foto": "https://example.com/foto_medan.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Medan",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Medan",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Medan",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Medan",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Medan",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Medan",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Palembang",
+    "foto": "https://example.com/foto_palembang.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Palembang",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Palembang",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Palembang",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Palembang",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Palembang",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Palembang",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Makassar",
+    "foto": "https://example.com/foto_makassar.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Makassar",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Makassar",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Makassar",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Makassar",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Makassar",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Makassar",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Denpasar",
+    "foto": "https://example.com/foto_denpasar.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Denpasar",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Denpasar",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Denpasar",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Denpasar",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Denpasar",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Denpasar",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Semarang",
+    "foto": "https://example.com/foto_semarang.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Semarang",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Semarang",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Semarang",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Semarang",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Semarang",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Semarang",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Balikpapan",
+    "foto": "https://example.com/foto_balikpapan.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Balikpapan",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Balikpapan",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Balikpapan",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Balikpapan",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Balikpapan",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Balikpapan",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Padang",
+    "foto": "https://example.com/foto_padang.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Padang",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Padang",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Padang",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Padang",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Padang",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Padang",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Malang",
+    "foto": "https://example.com/foto_malang.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Malang",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Malang",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Malang",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Malang",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Malang",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Malang",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Manado",
+    "foto": "https://example.com/foto_manado.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Manado",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Manado",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Manado",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Manado",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Manado",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Manado",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Batam",
+    "foto": "https://example.com/foto_batam.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Batam",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Batam",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Batam",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Batam",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Batam",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Batam",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Pontianak",
+    "foto": "https://example.com/foto_pontianak.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Pontianak",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Pontianak",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Pontianak",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Pontianak",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Pontianak",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Pontianak",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Banjarmasin",
+    "foto": "https://example.com/foto_banjarmasin.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Banjarmasin",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Banjarmasin",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Banjarmasin",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Banjarmasin",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Banjarmasin",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Banjarmasin",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Samarinda",
+    "foto": "https://example.com/foto_samarinda.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Samarinda",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Samarinda",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Samarinda",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Samarinda",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Samarinda",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Samarinda",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Pekanbaru",
+    "foto": "https://example.com/foto_pekanbaru.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Pekanbaru",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Pekanbaru",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Pekanbaru",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Pekanbaru",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Pekanbaru",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Pekanbaru",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Jambi",
+    "foto": "https://example.com/foto_jambi.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Jambi",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Jambi",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Jambi",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Jambi",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Jambi",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Jambi",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Kupang",
+    "foto": "https://example.com/foto_kupang.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Kupang",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Kupang",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Kupang",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Kupang",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Kupang",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Kupang",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Mataram",
+    "foto": "https://example.com/foto_mataram.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Mataram",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Mataram",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Mataram",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Mataram",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Mataram",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Mataram",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Jayapura",
+    "foto": "https://example.com/foto_jayapura.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Jayapura",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Jayapura",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Jayapura",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Jayapura",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Jayapura",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Jayapura",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Kendari",
+    "foto": "https://example.com/foto_kendari.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Kendari",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Kendari",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Kendari",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Kendari",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Kendari",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Kendari",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Ambon",
+    "foto": "https://example.com/foto_ambon.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Ambon",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Ambon",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Ambon",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Ambon",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Ambon",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Ambon",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Ternate",
+    "foto": "https://example.com/foto_ternate.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Ternate",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Ternate",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Ternate",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Ternate",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Ternate",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Ternate",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Bandar Lampung",
+    "foto": "https://example.com/foto_bandar_lampung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Bandar Lampung",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Bandar Lampung",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Bandar Lampung",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Bandar Lampung",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Bandar Lampung",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Bandar Lampung",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Cirebon",
+    "foto": "https://example.com/foto_cirebon.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Cirebon",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Cirebon",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Cirebon",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Cirebon",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Cirebon",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Cirebon",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Bogor",
+    "foto": "https://example.com/foto_bogor.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Bogor",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Bogor",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Bogor",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Bogor",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Bogor",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Bogor",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Tasikmalaya",
+    "foto": "https://example.com/foto_tasikmalaya.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Tasikmalaya",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Tasikmalaya",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Tasikmalaya",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Tasikmalaya",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Tasikmalaya",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Tasikmalaya",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Depok",
+    "foto": "https://example.com/foto_depok.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Depok",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Depok",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Depok",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Depok",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Depok",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Depok",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Solo",
+    "foto": "https://example.com/foto_solo.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Solo",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Solo",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Solo",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Solo",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Solo",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Solo",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Magelang",
+    "foto": "https://example.com/foto_magelang.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Magelang",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Magelang",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Magelang",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Magelang",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Magelang",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Magelang",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Blitar",
+    "foto": "https://example.com/foto_blitar.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Blitar",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Blitar",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Blitar",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Blitar",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Blitar",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Blitar",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Bengkulu",
+    "foto": "https://example.com/foto_bengkulu.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kuliner Khas Bengkulu",
+        "foto": "https://example.com/kuliner.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung di Bengkulu",
+        "foto": "https://example.com/gunung.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai di Bengkulu",
+        "foto": "https://example.com/pantai.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Situs Bersejarah Bengkulu",
+        "foto": "https://example.com/bersejarah.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Mall Populer di Bengkulu",
+        "foto": "https://example.com/mall.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Nyaman di Bengkulu",
+        "foto": "https://example.com/hotel.jpg"
+      }
+    ]
+  }
+]
